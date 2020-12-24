@@ -3,6 +3,7 @@ This is an Image Restoration Project. I am Supervised by Nick.
 
 
 ## Experiment with GANs
+2018 DeblurGAN (under experiments)
 2019 SinGAN (under experiments)
 
 
