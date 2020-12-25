@@ -1,0 +1,19 @@
+   TVPrimDual.m Runs the Newton iteration for the primal-dual 
+                problem.
+   Cmult.m      Multiplies a vector by the C matrix, the matrix
+                in (3.5) for the primal-dual problem.
+   Dmult.m      Multiplies a vector by D (del) or D' (grad). 
+   formE.m      Computes a diagonal matrix with the norm of the
+                gradient of u at each gridpoint, and the inverse
+                of the matrix.
+   formF.m      Computes a block diagonal matrix F, defined
+                by (I - w grad-u' / | grad-u |) in (3.5).
+   DualStep.m   Evaluates (3.6) for delta_w.
+   fcn.m        Evaluates the function in (2.8) and its gradient in
+                (2.9) for the line search cvsrch and other purposes.
+   findsd.m     Solves (5.3) for largest feasible step.
+
+   cvsrch.m     Computes a (primal variable) step length via line search.
+   cstep.m      Used by cvsrch.
+   paramtest.m  Finds the initial regularization parameter using the 
+		discrepancy principle	
