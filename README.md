@@ -11,7 +11,7 @@ Update
 
 -> Different Guassian Models.
 
--> Different functions of adding noises on pictures.
+-> Different methods of adding noises on pictures.
 
 ## Experiment with traditional Signal Processing Methods.
 
