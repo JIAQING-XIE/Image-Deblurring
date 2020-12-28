@@ -3,10 +3,15 @@ This is an Image Restoration Project. I am Supervised by Nick.
 
 
 ## Experiment with GANs
-2018 DeblurGAN (under experiments)
 
-2020/12/26 SRGAN paper reading and build testing environments
-2020/12/27 add Guassian noise to the pictures
+
+Update time
+
+2020/12/28 add Guassian noise to the pictures. 
+
+-> Different Guassian Models.
+
+-> Different functions of adding noises on pictures.
 
 ## Experiment with traditional Signal Processing Methods.
 
