@@ -5,7 +5,7 @@ This is an Image Restoration Project. I am Supervised by Nick.
 ## Experiment with GANs
 
 
-Update time
+Update
 
 2020/12/28 add Guassian noise to the pictures. 
 
