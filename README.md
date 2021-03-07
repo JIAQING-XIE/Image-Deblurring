@@ -7,6 +7,10 @@ This is an Image Restoration Project. I am Supervised by Nick.
 
 Update
 
+2021/03/08 restarting research.
+
+2021/01 ~ 2021/03 focusing on the ICLR paper submission
+
 2020/12/28 add Guassian noise to the pictures. 
 
 -> Different Guassian Models.
